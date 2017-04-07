@@ -4,7 +4,8 @@
 -------------------
 
 <h3>1 浏览器私有属性</h3>
-```css
+
+```
 **-ms**代表IE浏览器私有属性<br/>
 **-webkit**代表chrome、safari私有属性<br/>
 -moz代表firefox浏览器私有属性
@@ -12,7 +13,8 @@
 
 ------------------
 <h3>2 Progressive enhancement (逐步增强)</h3>
-```css
+
+```
 border-radius圆角
 webkit-transform rotate(20deg)2D旋转
 text-shadow文本阴影
