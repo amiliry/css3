@@ -47,7 +47,12 @@ box-shadow:[inset] x-offset y-offset blur-radius spread-radius color
 3D text effect
 .demo10 {
   color: #fff;
-  text-shadow: 1px 1px rgba(197, 223, 248,0.8),2px 2px rgba(197, 223, 248,0.8),3px 3px rgba(197, 223, 248,0.8),4px 4px rgba(197, 223, 248,0.8),5px 5px rgba(197, 223, 248,0.8),6px 6px rgba(197, 223, 248,0.8);
+  text-shadow: 1px 1px rgba(197, 223, 248,0.8),
+  2px 2px rgba(197, 223, 248,0.8),
+  3px 3px rgba(197, 223, 248,0.8),
+  4px 4px rgba(197, 223, 248,0.8),
+  5px 5px rgba(197, 223, 248,0.8),
+  6px 6px rgba(197, 223, 248,0.8);
 }
 
 Retro text effect复古
